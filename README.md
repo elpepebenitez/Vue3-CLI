@@ -1,6 +1,6 @@
 # vue3-cli
 
-A simple modal project using Vue 3, following The Net Ninja tutorial 
+A simple modal project using Vue 3, following The Net Ninja tutorial.  
 Tutorial link: https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1
 
 ## Project setup
